@@ -569,10 +569,65 @@ img{
 .modal-btn :focus.modal-btn-svg {
     fill:currentColor;}
 
+/*-----------------------------modal-forms---------------------------------------------------------*/
+.modol{
+    padding-top:64px ;
+    padding-right: 15px;
+    padding-bottom:24px;
+    padding-left: 15px;}
 
+.modal-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    margin-bottom: 24px;
+    margin-left: 15px;
+    color: #2E2F42;}
 
+.modal-span-desc{
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8E8F99;
+    margin-bottom: 4px;}
 
+.modal-form-input{
+    padding-top:11px;
+    padding-bottom: 11px;
+    padding-left: 38px;
+    border: 1px solid rgba(33, 33, 33, 0.2);
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 8px;}
 
+.modal-form-input:hover,
+.modal-form-input:focus{
+    color: rgba(77, 90, 229, 1);
+    border: 1px solid rgba(77, 90, 229, 1);}
+
+.modal-form-textarea{
+    display: inline-block;
+    width: 100%;}
+
+.modal-form-fils-icon{
+    display: block;
+    position: relative;
+}
+.modal-forms-icon{
+    position: absolute;
+    translate: 50% 50%;
+    margin-left: 16px;
+    margin-bottom: 11px;
+    margin-right: 4px;
+    
+
+}
 
 
 
