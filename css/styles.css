@@ -569,8 +569,7 @@ img{
     color:#FFFFFF;}
 
 .footer-svg-use{
-    fill: #FFFFFF;
-}
+    fill: #FFFFFF;}
 
 .foter-input{
     font-weight: 400;
@@ -645,8 +644,7 @@ img{
 
     animation-name: modal-scale;
     animation-duration: 3000ms;
-    animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
+    animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);}
 
 /*-----------------------------------------------------modal animations------------*/
 
@@ -670,9 +668,7 @@ img{
 
     transition-property: background-color, border-color;
     transition-duration: 250ms;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-
-}
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);}
 
 .modal-close-button:hover,
 .modal-close-button:focus {
