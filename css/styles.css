@@ -843,13 +843,11 @@ policy-checkbox:checked+.custom-checkbox {
     opacity: 1;}
 
 
-.policy-checkbox:focus+.custom-checkbox {
-    background-color: var(--btn-color);
-}
+
+   
 
 .link {
-    text-decoration: underline;
-    color: var(--btn-color);
+   color: var(--btn-color);
 }
 
 .form-button-container {
